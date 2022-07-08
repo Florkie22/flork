@@ -8,7 +8,7 @@
 }
 
 body{
-    background-image: url("/src/we.\ are.\ flork.png");
+    background-image: url("bg.png");
 }
 
 .navbar input[type="checkbox"],.navbar .hamburger-lines{
@@ -195,7 +195,7 @@ body{
 	width: 250px;
     height: 250px;
     background-position: center;
-	background-image: url("/src/florkcard.png");
+	background-image: url("florkcard.png");
     background-repeat: no-repeat;
 }
 
@@ -281,7 +281,6 @@ body{
 }
 
 .cardImg{
-    background-image: url("/src/we.\ are.\ flork.png");
     width: 250px;
     height: 250px;
 }
