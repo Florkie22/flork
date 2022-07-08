@@ -8,11 +8,11 @@
 }
 
 body{
-    background-image: url("https://werflork.world/bg.png");
+    background-image: url("https://werflork.world/bg.png"); 
 }
 
 .navbar input[type="checkbox"],.navbar .hamburger-lines{
-    display: none;
+    display: none; 
 }
 
 .container{
@@ -195,7 +195,7 @@ body{
 	width: 250px;
     height: 250px;
     background-position: center;
-	background-image: url("https://werflork.world/florkcard.png");
+	background-image: url("https://werflork.world/florkcard.png"); 
     background-repeat: no-repeat;
 }
 
