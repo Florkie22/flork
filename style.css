@@ -8,7 +8,7 @@
 }
 
 body{
-    background-image: url("https://florkie22.github.io/flork/square.jpg/bg.png");
+    background-image: url("https://florkie22.github.io/flork/bg.png");
 }
 
 .navbar input[type="checkbox"],.navbar .hamburger-lines{
@@ -195,7 +195,7 @@ body{
 	width: 250px;
     height: 250px;
     background-position: center;
-	background-image: url("https://florkie22.github.io/flork/square.jpg/florkcard.png");
+	background-image: url("https://florkie22.github.io/flork/florkcard.png");
     background-repeat: no-repeat;
 }
 
